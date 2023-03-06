@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TQoni33Bhb5j0XkHd8ERZQ32m6r6PXohHtz6kn9RZzB9gtIpQlvcZnXdRDWpM5Ro06ej3zEqzvyUeYnnY1Oa6A==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio Projects\\BatchRename\\BatchRename\\BatchRename.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phuon\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\phuon\\.nuget\\packages\\fluent.ribbon\\8.0.3\\fluent.ribbon.8.0.3.nupkg.sha512",
+    "C:\\Users\\phuon\\.nuget\\packages\\fody\\6.5.1\\fody.6.5.1.nupkg.sha512",
+    "C:\\Users\\phuon\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\phuon\\.nuget\\packages\\propertychanged.fody\\3.4.0\\propertychanged.fody.3.4.0.nupkg.sha512",
+    "C:\\Users\\phuon\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
